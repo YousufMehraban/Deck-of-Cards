@@ -1,0 +1,21 @@
+
+.DeckerBoard{
+    width: 500px;
+    height: 600px;
+    background-color: rgb(3, 65, 3);
+    margin: auto;
+    border: 2px solid green;
+}
+
+.DeckerImg{
+    margin-top: 65px;
+}
+
+.DeckerBtn{
+    margin: 10px;
+    height: 40px;
+    width: 200px;
+    font-weight: bolder;
+    background-color: blue;
+    color: white;
+}
